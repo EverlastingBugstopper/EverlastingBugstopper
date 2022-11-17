@@ -4,7 +4,7 @@ I'm a devtools engineer! Check out [averyharnish.com](https://averyharnish.com) 
 
 #### Professional Repositories
 
-I'm currently working on the [🤖 Rover CLI](https://github.com/apollographql/rover) at [Apollo GraphQL](https://apollographql.com). Related repositories are [`federation-rs`](https://github.com/apollographql/federation-rs), [`router`](https://github.com/apollographql/router), and [`apollo-rs`](https://github.com/apollographql/apollo-rs).
+I'm currently working on the [🤖 Rover CLI](https://github.com/apollographql/rover) at [Apollo GraphQL](https://apollographql.com). Related repositories are [`federation-rs`](https://github.com/apollographql/federation-rs), [`router`](https://github.com/apollographql/router), [`awc`](https://github.com/apollographql/awc) and [`apollo-rs`](https://github.com/apollographql/apollo-rs).
 
 #### Open Source Repositories
 
