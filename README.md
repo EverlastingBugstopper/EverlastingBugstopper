@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a devtools engineer working on devtools. Check out [averyharnish.com](https://averyharnish.com) for my personal site.
+I'm a devtools engineer! Check out [averyharnish.com](https://averyharnish.com) for my personal site.
 
 #### Professional Repositories
 
