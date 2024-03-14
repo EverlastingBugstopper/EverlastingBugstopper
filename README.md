@@ -2,11 +2,13 @@
 
 I'm a devtools engineer! Check out [averyharnish.com](https://averyharnish.com) for my [personal site](https://github.com/EverlastingBugstopper/avery-site).
 
-#### Professional Repositories
+#### Professional Repositories 
 
-I'm currently working on the [🤖 Rover CLI](https://github.com/apollographql/rover) at [Apollo GraphQL](https://apollographql.com). Related repositories are [`federation-rs`](https://github.com/apollographql/federation-rs), [`router`](https://github.com/apollographql/router), [`awc`](https://github.com/apollographql/awc) and [`apollo-rs`](https://github.com/apollographql/apollo-rs).
+In the past I've worked at [Apollo GraphQL](https://apollographql.com) and [Cloudflare](https://cloudflare.com). 
 
-In the past I worked on the [🤠 Wrangler CLI](https://github.com/cloudflare/wrangler) at [Cloudflare](https://cloudflare.com). Related repositories are [`kv-asset-handler`](https://github.com/cloudflare/kv-asset-handler), [`worker-typescript-template`](https://github.com/cloudflare/worker-typescript-template), [`workers-docs`](https://github.com/cloudflare/workers-docs), and [`worker-sites-template`](https://github.com/cloudflare/worker-sites-template).
+At Apollo, I worked on the [🤖 Rover CLI](https://github.com/apollographql/rover). Related repositories are [`federation-rs`](https://github.com/apollographql/federation-rs), [`router`](https://github.com/apollographql/router), [`awc`](https://github.com/apollographql/awc) and [`apollo-rs`](https://github.com/apollographql/apollo-rs).
+
+At Cloudflare, I worked on v1 of the [🤠 Wrangler CLI](https://github.com/cloudflare/wrangler). Related repositories are [`kv-asset-handler`](https://github.com/cloudflare/kv-asset-handler), [`worker-typescript-template`](https://github.com/cloudflare/worker-typescript-template), [`workers-docs`](https://github.com/cloudflare/workers-docs), and [`worker-sites-template`](https://github.com/cloudflare/worker-sites-template).
 
 #### Open Source Repositories
 
