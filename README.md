@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a devtools engineer! Check out [averyharnish.com](https://averyharnish.com) for my [personal site](https://github.com/EverlastingBugstopper/avery-site).
+I'm a software engineer with a focus on automation and developer tooling. Check out [averyharnish.com](https://averyharnish.com) for my [personal site](https://github.com/EverlastingBugstopper/avery-site).
 
 #### Professional Repositories 
 
@@ -13,8 +13,6 @@ At Cloudflare, I worked on v1 of the [🤠 Wrangler CLI](https://github.com/clou
 #### Open Source Repositories
 
 I also maintain some open source Rust crates. Check out [`shell-candy`](https://github.com/EverlastingBugstopper/shell-candy) if you want to shell out to a sub-process and handle their `stdout`/`stderr` as streams. Or, you can check out [`billboard`](https://github.com/EverlastingBugstopper/billboard) if you want to display boxes with outlines in your terminal.
-
-I also maintain [`binary-install`](https://github.com/EverlastingBugstopper/binary-install) which allows you to extract a binary from a tarball endpoint and shell out to it from node. It's not the best library out there and I'd love help modernizing it and rewriting it in TypeScript.
 
 ---
 
