@@ -4,7 +4,7 @@ I'm a software engineer with a focus on automation and developer tooling. Check 
 
 #### Professional Repositories 
 
-In the past I've worked at [Apollo GraphQL](https://apollographql.com) and [Cloudflare](https://cloudflare.com). 
+In the past I've worked at [Engine](https://engine.com), [Apollo GraphQL](https://apollographql.com) and [Cloudflare](https://cloudflare.com). 
 
 At Apollo, I worked on the [🤖 Rover CLI](https://github.com/apollographql/rover). Related repositories are [`federation-rs`](https://github.com/apollographql/federation-rs), [`router`](https://github.com/apollographql/router), [`awc`](https://github.com/EverlastingBugstopper/awc) and [`apollo-rs`](https://github.com/apollographql/apollo-rs).
 
